@@ -103,6 +103,7 @@ int main() {
             {16, true}
         };
 
+
         for (int i = 0; i < 3; i++) {
             group[i].wfile(file);
         }
